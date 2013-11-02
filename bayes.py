@@ -7,7 +7,7 @@
 #p1 = sensitivity = p(pos|c)
 #p2 = specitivity = p(Neg|!c)
 
-p0=0.2
+p0=0.1
 p1=0.9
 p2=0.9
 
